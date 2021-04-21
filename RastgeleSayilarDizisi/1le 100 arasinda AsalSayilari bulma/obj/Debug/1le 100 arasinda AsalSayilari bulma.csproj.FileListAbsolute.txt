@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\bin\Debug\1le 100 arasinda AsalSayilari bulma.exe.config
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\bin\Debug\1le 100 arasinda AsalSayilari bulma.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\bin\Debug\1le 100 arasinda AsalSayilari bulma.pdb
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\obj\Debug\1le 100 arasinda AsalSayilari bulma.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\obj\Debug\1le 100 arasinda AsalSayilari bulma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\obj\Debug\1le 100 arasinda AsalSayilari bulma.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\RastgeleSayilarDizisi\1le 100 arasinda AsalSayilari bulma\obj\Debug\1le 100 arasinda AsalSayilari bulma.pdb
